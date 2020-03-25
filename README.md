@@ -1,12 +1,14 @@
 # badminton-apps
 
-> My priceless Nuxt.js project
+
 
 ## Build Setup
 
 ```bash
 # install dependencies
 $ npm install
+$ npm install firebase --save
+$ npm install cookieparser jwt-decode js-cookie
 
 # serve with hot reload at localhost:3000
 $ npm run dev
